@@ -1,0 +1,2 @@
+#Python Version: 3.12
+curl-cffi<0.6.4
